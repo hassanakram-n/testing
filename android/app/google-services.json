@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "902610402595",
+    "project_id": "blood-donors-community",
+    "storage_bucket": "blood-donors-community.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902610402595:android:8afdeeb0c00fbf3ff42096",
+        "android_client_info": {
+          "package_name": "com.bdc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902610402595-0o7e9uprh13ci0o67rgjba3bgoek935b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bdc",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "902610402595-7q08jksima6me72ah2m8nr16kksjcgj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS6NG18wsDIJgulJNAw-jiDCAKlMC815Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902610402595-7q08jksima6me72ah2m8nr16kksjcgj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
